@@ -1,6 +1,7 @@
 # Compass Stylesheet Authoring Framework
 
 Build Status: [![Build Status](https://travis-ci.org/Compass/compass.png)](https://travis-ci.org/Compass/compass)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcompass.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcompass?ref=badge_shield)
 
 Code Quality: [![Code Climate](https://codeclimate.com/github/Compass/compass.png)](https://codeclimate.com/github/Compass/compass)
 
@@ -28,3 +29,6 @@ Chris is a software engineer at [LinkedIn](http://www.linkedin.com/) and a membe
 Copyright (c) 2008-2014 Christopher M. Eppstein<br>
 All Rights Reserved.<br>
 Released under a [slightly modified MIT License](LICENSE.markdown).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcompass.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcompass?ref=badge_large)
